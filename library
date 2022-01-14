@@ -1,5 +1,0 @@
-import numpy as np #a matrix like package for handling data
-import pandas as pd #a R like package for handling data
-from scipy import stats #a way to just get a piece of a large package
-import matplotlib.pyplot as plt
-import seaborn as sns
